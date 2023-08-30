@@ -1,0 +1,15 @@
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/bin/Debug/net6.0/DrinkMaker
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/bin/Debug/net6.0/DrinkMaker.deps.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/bin/Debug/net6.0/DrinkMaker.runtimeconfig.json
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/bin/Debug/net6.0/DrinkMaker.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/bin/Debug/net6.0/DrinkMaker.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.csproj.AssemblyReference.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.AssemblyInfoInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.AssemblyInfo.cs
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.csproj.CoreCompileInputs.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/refint/DrinkMaker.dll
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.pdb
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/DrinkMaker.genruntimeconfig.cache
+/Users/daisy/Desktop/Dojo_Assignments/C_Sharp/language_fundamentals/DrinkMaker/obj/Debug/net6.0/ref/DrinkMaker.dll
